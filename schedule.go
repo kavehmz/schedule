@@ -3,7 +3,7 @@ package main
 /*
 This is a CLI tool to query channels schedule.
 It is the way I find easier to skim.
-Format of call is: schedule.go [today|tomorrow]
+Usage: schedule [today|tomorrow]
 I found the API to be open to use:
 http://api-epg.astro.com.my/ElasticEPGAPI_deploy/api/json/metadata?op=GuideRequest
 
